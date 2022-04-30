@@ -1,0 +1,4 @@
+*.zip
+output.*
+main
+go_lambda
